@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="gridSizes">
+        <item>6x6</item>
+        <item>8x8</item>
+        <item>10x10</item>
+    </string-array>
+    
+    <string-array name="boards">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    
+        <string-array name="difficulty">
+        <item>easy</item>
+        <item>medium</item>
+        <item>wtf?!</item>
+    </string-array>
+</resources>
